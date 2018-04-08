@@ -9,5 +9,5 @@ A simple news website
 * Registered users can edit and delete their stories and comments
 * Profile page
 * Ability to save stories
-* client-side and server-side validation
+* Client-side and server-side validation
 * Responsive navigation bar

@@ -1,0 +1,34 @@
+ /* nav style
+https://www.w3schools.com/css/css_navbar.asp */
+
+ nav li {
+     display: inline;
+ }
+
+ nav ul {
+     overflow: hidden;
+     padding: 0;
+     margin: 0;
+     list-style-type: none;
+     background-color: #8BA0B4;
+     border-bottom: 1px solid #08407B;
+ }
+
+ nav ul li a {
+     text-align: center;
+     padding: 7px 10px;
+     color: white;
+     text-decoration: none;
+ }
+
+ nav ul li a:hover {
+     color: #08407B;
+ }
+
+ nav ul li {
+     border-right: 1.5px solid gray;
+ }
+
+ nav ul li:last-child {
+     border-right: none;
+ }
